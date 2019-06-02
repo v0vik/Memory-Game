@@ -29,7 +29,7 @@ main {
     margin: 0 auto;
     display: grid;
     grid-template-columns: 16.6% 16.6% 16.6% 16.6% 16.6% 16.6%;
-    grid-template-rows: 25% 25% 25% 25%;
+/*    grid-template-rows: 25% 25% 25% 25%;  */
     padding-top: 50px;
     display: none;
 }
